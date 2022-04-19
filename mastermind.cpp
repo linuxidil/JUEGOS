@@ -67,3 +67,11 @@ my_juego.matriz();
 my_juego.comparar();
 return 0;
 }
+
+
+https://docs.google.com/document/d/1_OjjJxPnlm2SevDcjcujNfrSnjWgohP1PvBau7SIHSg/edit?usp=sharing
+
+
+
+https://docs.google.com/document/d/1n-XR2aQn6HJIPxDXnvI6qpFkxnsRef5bDGsKzy-ZvVM/edit?usp=sharinga
+
